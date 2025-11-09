@@ -29,16 +29,7 @@ Built with ❤️ by [Disha Dutta](https://github.com/dishadutta04)
 
 ---
 
-## 🚀 Quick Start
 
-### 🧩 Frontend Setup (React + Tailwind)
-
-```bash
-git clone https://github.com/dishadutta04/ai-portfolio-builder.git
-cd ai-portfolio-builder
-npm install
-npm run dev
-```
 ## 🚀 It Looks Like ->
 <img width="1440" height="820" alt="Screenshot 2025-11-09 at 15 23 46" src="https://github.com/user-attachments/assets/b95d4498-2bf6-44e5-9e28-bb67866cf39c" />
 
