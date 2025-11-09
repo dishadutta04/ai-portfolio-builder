@@ -39,3 +39,13 @@ cd ai-portfolio-builder
 npm install
 npm run dev
 ```
+## 🚀 It Looks Like ->
+<img width="1440" height="820" alt="Screenshot 2025-11-09 at 15 23 46" src="https://github.com/user-attachments/assets/b95d4498-2bf6-44e5-9e28-bb67866cf39c" />
+
+<img width="1229" height="597" alt="Screenshot 2025-11-09 at 15 14 07" src="https://github.com/user-attachments/assets/3cba89d8-a448-48f0-a21a-0f05f527b74b" />
+
+<img width="1440" height="800" alt="Screenshot 2025-11-09 at 15 24 43" src="https://github.com/user-attachments/assets/772c8294-edee-467c-aeff-01c7ebd3a144" />
+
+<img width="1440" height="756" alt="Screenshot 2025-11-09 at 15 24 28" src="https://github.com/user-attachments/assets/4626653e-9edb-4552-8f6a-0a972ba484c3" />
+
+
